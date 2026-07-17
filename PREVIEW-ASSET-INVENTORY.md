@@ -29,6 +29,7 @@ real photograph in the separate inspiration card.
 | Marquee Table Setup | `assets/addons/marquee-table-chair-setup.webp` |
 | Cocktail Table | `assets/addons/cocktail-table.webp` |
 | Chafing Dishes | `assets/addons/chafing-dishes.webp` |
+| Electric Soup Warmer — Three 7.4 QT Pots | `assets/addons/electric-soup-warmer.webp` |
 | Lit Marquee Setup | `assets/addons/lit-marquee.webp` |
 | Folding Table | `assets/addons/folding-table.webp` |
 | Long Folding Table | `assets/addons/folding-table-long.webp` |

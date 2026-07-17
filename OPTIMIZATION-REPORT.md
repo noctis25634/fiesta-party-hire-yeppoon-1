@@ -3,7 +3,7 @@
 ## Result
 
 - Original website: **299.73 MiB** across 158 files.
-- Final GitHub-ready website: **43.35 MiB** across 153 files.
+- Final GitHub-ready website: **43.38 MiB** across 154 files.
 - Space saved: **256.38 MiB (85.54%)**.
 - Large PNG photographs converted to WebP: **120**.
 - Byte-identical image copies removed from the same gallery folder: **8**.
@@ -29,10 +29,10 @@ The logo, QR code, location map, and social-sharing image remain in PNG format f
 
 ## Automated verification
 
-- Local file references checked: **153**.
+- Local file references checked after adding the Electric Soup Warmer: **166**.
 - Missing references: **0**.
 - Filename case mismatches: **0**.
-- Image files opened and verified: **131**.
+- Image files opened and verified: **132**.
 - Broken image files: **0**.
 - HTML images missing alt text: **0**.
 - Duplicate HTML IDs: **0**.
@@ -46,5 +46,5 @@ The original source folder was not modified. This optimized copy retains the lux
 - Mobile homepage checked at 390 × 844 with a working navigation menu, single-column preview, 390-pixel live scene, and working **View my live design** shortcut.
 - Planner tested with a Wedding / Elegant / Ceremony setup for 80 guests. Nine scene items rendered, exact quantities appeared in the key and summary, the WebP inspiration photo loaded, and the saved draft restored after refresh.
 - Gallery filtering returned the correct visible count and the lightbox opened the optimized WebP image.
-- Digital catalogue loaded 176 images, including 165 WebP images, with no broken media or horizontal overflow.
+- The added Electric Soup Warmer photo was converted to WebP, visually inspected, and verified with the catalogue and planner references.
 - Browser console messages or errors: **0**.
