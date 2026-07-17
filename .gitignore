@@ -1,0 +1,30 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Local settings, logs, and caches
+.env
+.env.*
+!.env.example
+*.log
+.cache/
+.tmp/
+tmp/
+work/
+
+# Dependency and generated folders not required by this static website
+node_modules/
+dist/
+coverage/
+
+# Local archives and backups
+*.zip
+*.tar
+*.tar.gz
+*.bak
+*.backup
+
