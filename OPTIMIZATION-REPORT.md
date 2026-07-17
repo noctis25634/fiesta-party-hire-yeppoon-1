@@ -3,8 +3,8 @@
 ## Result
 
 - Original website: **299.73 MiB** across 158 files.
-- Final GitHub-ready website: **43.38 MiB** across 154 files.
-- Space saved: **256.38 MiB (85.54%)**.
+- Final GitHub-ready website: **44.75 MiB** across 154 files.
+- Space saved: **254.98 MiB (85.07%)**.
 - Large PNG photographs converted to WebP: **120**.
 - Byte-identical image copies removed from the same gallery folder: **8**.
 - Largest remaining file: **7.68 MiB**.
@@ -39,6 +39,8 @@ The logo, QR code, location map, and social-sharing image remain in PNG format f
 - JavaScript syntax errors: **0**.
 
 The original source folder was not modified. This optimized copy retains the luxury layout, interactive planner, gallery, videos, PDF and digital catalogues, mobile styling, and accessibility content.
+
+The downloadable product catalogue is now a verified **25-page A4 PDF**. Its contents page includes the Electric Soup Warmer, all page footers show the correct 25-page total, and page 25 presents the product photo, specifications, safety features, and booking notes.
 
 ## Browser verification
 
